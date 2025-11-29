@@ -1,0 +1,13 @@
+# Virtual env
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Data folder where user uploads go
+data/
+
+# Python cache
+__pycache__/
+*.pyc
